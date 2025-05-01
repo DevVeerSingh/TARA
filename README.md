@@ -55,13 +55,12 @@ Models used:
 
 | File | Description |
 |------|-------------|
-| `Visualization files` | Full decision tree that explains model logic |
+| `Visualization file` | Single summary image that explains model logic and output |
 | `Synthetic Dataset` | Generated sample of lifestyle data for training/testing |
+| `TARA_StressModel.ipynb` | Main Google Colab notebook |
+| `TARA_StressModel.py` | Clean version of the model in Python |
 
-[synthetic_student_stress_dataset.csv](https://github.com/user-attachments/files/19999410/synthetic_student_stress_dataset.csv)
 
----![Visualzation of output charts by the model](https://github.com/user-attachments/assets/1fd59801-954f-4372-977d-42cd3c44bacc)
----
 
 ## 💡 Author
 
