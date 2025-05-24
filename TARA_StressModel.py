@@ -73,11 +73,11 @@ plot_tree(tree, feature_names=X.columns, class_names=['Low', 'Moderate', 'High']
 plt.title("Decision Tree Visualization")
 plt.show()
 
-a = int(input("Enter your sleep hours: "))
-b = int(input("Enter your study hours: "))
-c = int(input("Enter your screen time: "))
-d = int(input("Enter your physical exercise time: "))
-e = int(input("Enter your social time: "))
+a = float(input("Enter your sleep hours: "))
+b = float(input("Enter your study hours: "))
+c = float(input("Enter your screen time: "))
+d = float(input("Enter your physical exercise time: "))
+e = float(input("Enter your social time: "))
 
 
 # Step 7: Manual Input Prediction from variables listed above 
